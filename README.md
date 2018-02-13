@@ -1,3 +1,5 @@
+https://johnpollock.us/ftp/OSCAR-web-page/oscar.html
+
 OSCAR is written in Common LISP. It has been tested in a variety of LISP environments.
 
 The preferred environment is Macintosh Common LISP, where it supports graphics not available
